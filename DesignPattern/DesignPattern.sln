@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{BFE30E33-1FF1-4A00-B76D-0D8AE731FB9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{F7171EC5-F674-4625-A1E6-A312F9F8B431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{8E824A45-E260-4424-BE2C-6FBDB86982EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{7AD54F5B-D6BF-4870-8A25-4BCB46D19AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{CD53FC04-EE91-4C92-B72C-24F708B38D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositePattern", "CompositePattern\CompositePattern.csproj", "{8D20A9C5-B708-4AC5-A3F8-384024BE90C2}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{F949CE92-77F6-4A4F-861C-CBF19F736132}"
 EndProject
 Global
@@ -35,10 +45,6 @@ Global
 		{BFE30E33-1FF1-4A00-B76D-0D8AE731FB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE30E33-1FF1-4A00-B76D-0D8AE731FB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE30E33-1FF1-4A00-B76D-0D8AE731FB9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F949CE92-77F6-4A4F-861C-CBF19F736132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F949CE92-77F6-4A4F-861C-CBF19F736132}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F949CE92-77F6-4A4F-861C-CBF19F736132}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F949CE92-77F6-4A4F-861C-CBF19F736132}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
