@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{A20985C0-4AE0-43A3-AEA2-2EEE9B49A2C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{5719EBB2-FF45-40FD-AF9B-90807C27A7BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{5719EBB2-FF45-40FD-AF9B-90807C27A7BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePattern\FacadePattern.csproj", "{D749E107-781B-4867-834A-31754FB59286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{5719EBB2-FF45-40FD-AF9B-90807C27A7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5719EBB2-FF45-40FD-AF9B-90807C27A7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5719EBB2-FF45-40FD-AF9B-90807C27A7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D749E107-781B-4867-834A-31754FB59286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D749E107-781B-4867-834A-31754FB59286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D749E107-781B-4867-834A-31754FB59286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D749E107-781B-4867-834A-31754FB59286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
